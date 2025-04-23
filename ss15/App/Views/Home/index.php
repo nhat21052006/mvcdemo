@@ -1,4 +1,4 @@
-<?php require __DIR__. "/../Layout/HomeHeader.php"
+<?php require __DIR__. "/../Layout/homeheader.php"
 ?>
     <!-- Section-->
     <section class="py-5">
@@ -204,6 +204,6 @@
         </div>
     </section>
 
-<?php require __DIR__. "/../Layout/HomeFooter.php"
+<?php require __DIR__. "/../Layout/homefooter.php"
 ?>
         
